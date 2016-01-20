@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Insert title here</title>
+	<link rel="stylesheet" type="text/css" href="style.css" />
+	<link rel="stylesheet" type="text/css" href="reset.css" />
+	<link rel="stylesheet" type="text/css" href="form.css" />
+</head>
+<body>
+	<div id="wrapper">
+		<div id="header">
+			<div class="logo-tren">
+				<div class="top-logo">
+					<div class="ptop">
+						<a href="#"><p>JAM</p></a>
+						<a href="#"><p>QUIZZ</p></a>
+						<a href="#"><p>WE SEND</p></a>
+					</div>
+					<input type="text" placeholder="Nh?p n?i dung tìm ki?m..." id="input1" />
+				</div>
+			</div>
+			<div class="logo-duoi">
+				<img src="images/logo-duoi.jpg" width=300 id="img-logo-duoi" />
+				<a href="#"><img src="images/logo-left-tren.jpg" width=200  id="img-logo-right-tren" /></a>
+				<a href="#"><img src="images/logo-left-duoi.jpg" width=300 id="img-logo-right-duoi" /></a>
+			</div>
+
+			<div class="menu">
+				<div id="the-a">
+					<a href="#">Star</a>
+					<a href="#">Musik</a>
+					<a href="#">Ciné</a>
+					<a href="#">TV Show</a>
+					<a href="#">FaShion</a>
+					<a href="#">Ð?i s?ng</a>
+					<a href="#">Xã h?i</a>
+					<a href="#">Th? gi?i</a>
+					<a href="#">S?c kh?e-gi?i tính</a>
+					<a href="#">Made by Me</a>
+					<a href="#">Sport</a>
+					<a href="#">Khám phá</a>
+					<a href="#">2-Tek</a>
+					<a href="#">L? & Cool</a>
+					<a href="#">H?c du?ng</a>
+					<a href="#">Video</a>
+
+				</div>
+			</div><!-- het header -->
+
+			<div id="content">
+				<div class="banner-content">
+					<a href="#"><img src="images/banner-header.jpg" width= "960px" height="auto" /></a>
+				</div><!-- het-banner	 -->
+
+				<div class="cot-trai">
+					<div class="tin-hot-day padding">
+						<h3>TIN HOT</h3>
+						<p><a href="#"><img src="images/tin-hot.jpg" /></a></p>
+						<p><a href="#">B? m? s? ph?n ?ng th? nào n?u b?n nh?n tin: "T?t này con không v?" ?</a></p>
+
+					</div>
+					<div class="tin-moi-day padding">
+						<h3>TIN HOT TRONG NGÀY</h3>
+						<ul>
+							<li><a href="#">Tr?n thành lên ti?ng v? vi?c Hari Won b? ch? trích sau khi chia tay Ðinh Ti?n Ð?t.</a></li>
+							<li><a href="#">Ðinh Ti?n Ð?t:"Ð?ng trách Hari c?a Ti?n Ð?t..."</a></li>
+							<li><a href="#">Cu?i lan v?i b? ?nh cu?i phong cách...</a></li>
+							<li><a href="#">Thêm m?t hành d?ng d?p khi?n dân m?ng xuýt xoa...</a></li>
+							<li><a href="#">Nh?ng hình ?nh này s? khi?n b?n không mu?n dùng di?n tho?i n?a.</a></li>
+							<li><a href="#">Fan Vi?t phát s?t tru?c hình ?nh c?a tui.</a></li>
+							<ul>
+							</div><!-- end/ tinhottranngay -->
+
+							<div class="su-kien padding">
+								<h3>TIN M?I TRONG NGÀY</h3>
+								<ul>
+									<li><a href="#"><div>Tr?n thành lên ti?ng v? vi?c Hari Won b? ch? trích sau khi chia tay Ðinh Ti?n Ð?t</div></a></li>
+									<li><a href="#"><div>Ðinh Ti?n Ð?t:"Ð?ng trách Hari c?a Ti?n Ð?t..."</div></a></li>
+									<li><a href="#"><div>Cu?i lan v?i b? ?nh cu?i phong cách...</div></a></li>
+									<li><a href="#"><div>Thêm m?t hành d?ng d?p khi?n dân m?ng xuýt xoa...</div></a></li>
+									<li><a href="#"><div>Nh?ng hình ?nh này s? khi?n b?n không mu?n dùng di?n tho?i n?a</div></a></li>
+									<li><a href="#"><div>Fan Vi?t phát s?t tru?c hình ?nh c?a tui.</div></a></li> 
+									<ul>
+									</div> <!-- end /tin moi trong ngay -->
+
+									<div class="su-kien-cuoi padding">
+										<h3>S? KI?N</h3>
+										<li><a href="#"><div>Wetalk:Nh?ng bu?i trò chuy?n d?y c?m h?ng</div></a></li>
+										<li><a href="#"><div>HariWon-Ti?n Ð?t chia tay sau 9 nam yêu nhau...</div></a></li>
+									</div>
+
+									<div><!-- het cottrai -->
+
+										<div class="cot-giua">
+											<div class="img-content-top">
+												<a href=""><img src="images/content-top.jpg" /></a>
+											</div>
+
+											<div class="img-content-giua"> 
+												<a href=""><img src="images/img-content-giua.jpg" /></a>
+												<h3>Tr?c ti?p: Ngu?i hâm m? vây dông th?m d? Gala Vietnam Top Hits</h3>
+												<p>Chuong trình Gala Vietnam Top Hits di?n ra v?i s? tham gia c?a các nhóm nh?c BTS, Mamamoo, rapper Basick d?n t? Hàn Qu?c, bên c?nh dàn sao Vi?t n?i ti?ng tham gia bi?u di?n trong dêm.</p>
+											</div>
+											<div class="img-content-bot">
+												<div class="img1">
+													<a href=""><img src="images/img-content-bot1.jpg" /></a>
+													<a href=""><h4>Cu?c h?i ng? có m?t không hai c?a dàn sao "hot" nh?t Vpop t?i Gala WeChoice Awards 2015</h4></a>
+
+												</div>
+												<div class="img2">
+													<a href=""><img src="images/img-content-bot2.jpg" /></a>
+													<a href=""><h4>[Tr?c ti?p] Châu Thanh Vu ngh?n ngào xúc d?ng tru?c l?i nh?n g?i b?t ng? t? m?</h4></a>
+
+												</div>
+
+												<div class="img3">
+													<a href=""><img src="images/img-content-bot3.jpg" /></a>
+													<a href=""><h4>Dàn sao Vi?t xu?t hi?n trên th?m d? Gala Vietnam Top Hits</h4></a>
+
+												</div>
+												<div class="img4">
+													<a href=""><img src="images/img-content-bot4.jpg" /></a>
+													<a href=""><h4>"Không có chuy?n ngu?i dân Nam Ð?nh x? th?t cá voi d? an và mang di bán!"</h4></a>
+												</div>
+
+												<div class="img5">
+													<a href=""><img src="images/img-content-bot5.jpg" /></a>
+													<a href=""><h4>[Tr?c ti?p] Aiden: "Ngh? si luôn ph?i có chí c?u ti?n, không du?c ch? quan và ng? quên trong chi?n th?ng!"</h4></a>
+
+												</div>
+												<div class="img6">
+													<a href=""><img src="images/img-content-bot6.jpg" /></a>
+													<a href=""><h4>Nhân v?t th?c s? trong b? bài Tây - h? là ai?</h4></a>
+												</div>
+
+
+											</div>
+											
+											<div><!-- het cot giua -->
+
+												<div class="cot-phai"> 
+													<div class="img-content-top-r">
+														<a href=""><img src="images/img-content-top-phai.jpg" alt="Qu?ng cáo 1" /></a>
+													</div>
+													<div class="img-content-bot-r">
+														<a href=""><img src="images/img-content-bot-phai.jpg" alt="Qu?ng cáo 2"/></a>
+													</div>
+												</div><!-- het cot phai -->
+
+											</div><!-- het content -->
+																		
+										</div>
+										<div class="phan-chia-content-1">	
+										</div>	<!-- het -phan-chia-content -->
+										<!-- CONTENT BOTTOM-->
+										<div class="content-bottom">
+											<div class="content-bottom1">
+												<H2>STAR</H2>
+												<a href="#"><img src="images/img-content-bottom1.jpg"></a>
+												<div class=noidung-content-bottom1>
+													<h3>Seohyun du?c fan ch?n là thành viên có thân hình d?p nh?t SNSD</h3>
+													<div class="noidung1">Netizen Hàn d?ng tình nh?n xét Seohyun có dáng ngu?i cân d?i, chu?n nh?t m?c dù các thành viên khác c?a SNSD cung có l?i th? riêng v? thân hình.</div>
+												</div>
+											</div>
+
+											<div class="content-bottom2">
+												<H2>FASHION</H2>
+												<a href="#"><img src="images/img-content-bottom2.jpg"></a>
+												<div class=noidung-content-bottom2>
+													<h3>14 b?c ?nh khi?n b?n ph?i công nh?n vi?c làm di?u th?t l?m r?i ro</h3>
+													<div class="noidung2">Vi?c làm di?u, dù là b?ng b?t c? hình th?c nào rõ ràng là khi?n b?n d?p lên nhung song song v?i di?u dó, chúng cung có th? "h?i" b?n b?ng nh?ng cách kinh kh?ng nh?t</div>
+												</div>
+											</div>
+
+											<div class="content-bottom3">
+												<H2>MUSIK</H2>
+												<a href="#"><img src="images/img-content-bottom3.jpg"></a>
+												<div class=noidung-content-bottom3>
+													<h3>14 b?c ?nh khi?n b?n ph?i công nh?n vi?c làm di?u th?t l?m r?i ro</h3>
+													<div class="noidung3">Vi?c làm di?u, dù là b?ng b?t c? hình th?c nào rõ ràng là khi?n b?n d?p lên nhung song song v?i di?u dó, chúng cung có th? "h?i" b?n b?ng nh?ng cách kinh kh?ng nh?t</div>
+												</div>
+											</div>
+
+											<div class="content-bottom4">
+												<H2>Ð?I S?NG</H2>
+												<a href="#"><img src="images/img-content-bottom4.jpg"></a>
+												<div class=noidung-content-bottom4>
+													<h3>14 b?c ?nh khi?n b?n ph?i công nh?n vi?c làm di?u th?t l?m r?i ro</h3>
+													<div class="noidung4">Vi?c làm di?u, dù là b?ng b?t c? hình th?c nào rõ ràng là khi?n b?n d?p lên nhung song song v?i di?u dó, chúng cung có th? "h?i" b?n b?ng nh?ng cách kinh kh?ng nh?t</div>
+												</div>
+											</div>
+										</div>
+										<!-- END-CONTENT-BOTTOM -->
+										<div class="phan-chia-content-2">	
+
+										</div>	<!-- het -phan-chia-content -->
+										<!-- FOOTER -->
+										<div class="footer">
+											<div class="footer-trai">
+												<h3>Tr? s? Hà N?i</h3>
+												<div>
+													T?ng 20, tòa nhà Center Building, Hapulico Complex, s? 1 Nguy?n Huy Tu?ng, p. Thanh Xuân Trung, qu?n Thanh Xuân, Hà N?i. Ði?n tho?i: 04.39743410, máy l? 230.
+												</div>
+												<h3>Tr? s? H? Chí Minh</h3>
+												<div>T?ng 6 Tòa nhà 123, 123 Võ Van T?n, phu?ng 6, qu?n 3, Tp. HCM Ði?n tho?i: 08.73077979, máy l? 216</div>
+											</div>
+											<div class="footer-giua">
+													<h3>Biên T?p</h3>
+													<div>TR?NH MINH TÀI</div>
+											</div>
+
+										</div>
+										<!--END-FOOTER -->
+									</body
+									</html>

@@ -1,0 +1,455 @@
+@CHARSET "ISO-8859-1";
+               /* WRAPPER
+      -----------------------------------------------------------------         
+               */
+
+body{
+	background:url(images/background.jpg)left top repeat;
+	width:1346px;
+	min-height:1000px; 
+	margin:0px auto;
+	
+}
+
+	
+}
+.ptop{
+	  
+         
+	
+}
+.ptop a:hover{
+	  margin-left:180px;	
+      background-color:black; 
+	
+}
+.top-logo{
+	height:25px;
+	background-color:#2b2b2b;
+	width:1346px;
+	
+}
+.top-logo p{
+	float:left;
+	color:#FFFFFF;
+	font-size:12px;
+	font-family:Arial;
+	line-height:25px;
+	font-weight:bold;
+	padding-left:20px;
+	
+}
+#input1{
+	height:25px;
+	background-color:black;
+	margin-left:600px;
+	width:200px;
+}
+.logo-duoi{
+	background-color:#fde51b;
+	height:100px;
+	width:1346px;
+	
+}
+.logo-duoi #img-logo-right-tren{
+	margin:20px 500px;
+	position:absolute;
+	
+}
+.logo-duoi #img-logo-right-duoi{
+	margin:60px 400px;
+	position:absolute;
+	
+}
+.logo-duoi #img-logo-duoi{
+	margin-left:180px;
+	
+}
+
+.menu{
+	background-color:#BB0000;
+	
+	height:30px;
+}
+
+.menu #the-a{
+	margin-left:150px;
+	
+}
+.menu a{
+	border-right:1px solid #FFFFFF;
+	background-color:#BB0000;
+	color:#FFFFFF;
+	font-weight:bold;
+		font-size:15px;
+	font-family:Arial;
+	padding-left:10px;
+	text-align:center;
+	
+}
+.menu a:hover{
+	
+	background-color:#660000;
+	
+	
+}
+/* END WRAPPER-------------------------------------*/
+
+
+
+/*----------------CONTENT--------------------*/
+
+#content{
+	position: relative;
+	width:960px;
+	background-color:#FFFFFF;
+	min-height:2000px;
+	margin:10px auto;
+}
+
+.banner-content {
+	position: relative;
+	clear: both;
+}
+
+.padding{
+	padding: 10px 0;
+}
+
+/*----------------CONTENT-trai--------------------*/
+
+.cot-trai{
+position: relative;
+ width:265px;
+ min-height: 500px;
+ float: left;
+ 
+}
+
+.cottrai a,p,h1,h2,h3,h5{
+	color: #000;  
+}
+
+.cot-trai h3{
+	text-align: center
+}
+.tin-hot-day p{
+	width:100%;
+	background:#919191;
+	font-size:21px;
+	color:#FFFFFF;
+	font-family:arial;
+	padding:5px;
+	clear:both;
+	
+}
+.tin-hot-day #text1{
+	background:#efefef;
+	width:265px;
+	line-height:20px;
+	text-align:center;
+}
+.tin-moi-day{
+	list-style-position:inside;
+	width:100%;
+	background-color:#FFFFFF;
+	margin-top:0px;
+	clear: both;
+}
+.tin-moi-day li a div{
+	
+	padding:2px;
+	
+}
+.tin-moi-day #text2{
+	background:#efefef;
+	width:100%;
+	line-height:20px;
+	text-align:center;
+	
+}
+ .su-kien{
+	list-style-position:inside;
+	width:100%;
+	background-color:#FFFFFF;
+	margin-top:0px;
+ 	float:left;
+ 	clear:both;
+ 	margin-top:18px;
+}
+.su-kien li a div{
+	
+	padding:2px;
+	
+}
+
+.su-kien #text3{
+	background:#efefef;
+	width:265px;
+	line-height:20px;
+	text-align:center;
+	
+}
+.su-kien-cuoi{
+ 
+	list-style-position:inside;
+	width:100%;
+	background-color:#FFFFFF;
+	margin-top:0px;
+ 	float:left;
+ 	margin-top:18px;
+}
+.su-kien-cuoi li a div{
+	
+	padding:5px;
+	
+}
+/*----------------CONTENT-giua--------------------*/
+
+
+.cot-giua{
+	position: absolute;
+	top: 33px;
+	left: 276px;
+	
+		
+}
+.cot-giua .img-content-giua{
+	background:#f8f8f8;
+	font: inherit;
+	padding: 10px;
+		
+}
+.cot-giua .img-content-giua img{
+	float:right;
+	
+
+}
+.cot-giua .img-content-bot{
+	background:#f8f8f8;
+	font: inherit;
+	padding:10px;
+	position: absolute;
+	
+	
+	
+	
+}
+.cot-giua .img-content-bot h4:hover{
+	color: green;
+	
+	
+	
+	
+}
+.cot-giua .img-content-bot .img1{
+	width: 50%;
+	float:left;
+	
+	
+}
+.cot-giua .img-content-bot .img2{
+	width: 50%;
+	float:left;
+	
+	
+}
+.cot-giua .img-content-bot .img3{
+	width: 50%;
+	
+	
+	
+	
+}
+.cot-giua .img-content-bot .img4{
+	width: 50%;
+	position: absolute;
+	top:200px;
+	right:0px;
+}
+.cot-giua .img-content-bot .img5{
+	width: 50%;
+}
+
+.cot-giua .img-content-bot .img6{
+	width: 50%;
+	position: absolute;
+	top:374px;
+	right:0px;
+}
+/*----------------END -CONTENT-giua--------------------*/
+
+/*---------------- -CONTENT-PHAI--------------------*/
+.cot-phai{
+	position: absolute;
+	top:0px;
+	right: -300px;
+}
+.cot-phai .img-content-top-r img{
+	width: 87%;
+}
+.cot-phai .img-content-bot-r img{
+	width: 87%;
+}
+/*----------------END -CONTENT-phai--------------------*/
+/*----------------CHIA CONTENT-------------------*/
+.phan-chia-content-1{
+	background-image:url(images/phanweb.jpg)  ;
+	width: 960px;
+	clear: both;
+	height: 8px;
+	
+	;
+}
+
+/*---------------- CONTENT -BOTTOM-------------------*/
+.content-bottom{
+	width: 700px;
+	padding:10px;
+	position: relative;
+	min-height: 690px;
+}
+.content-bottom h2{
+	text-align: center;
+	color:#ffffff;
+	background: #770000;
+	
+}
+.content-bottom .content-bottom1 h3{
+	
+	position: absolute;
+	font-size:15px;
+	position: relative;
+	
+}
+.content-bottom .content-bottom1{
+	width: 50%px;
+	position: absolute;
+	
+	
+}
+
+.content-bottom  .noidung1{
+	
+	position: absolute;
+	clear: both;
+	font-size:16px;
+	font-style: italic;
+}
+.content-bottom  .noidung-content-bottom1{
+	background:#dddddd;
+	min-height: 120px;
+	padding-left: 10px;
+	position: absolute;
+}
+.content-bottom  .noidung2{
+	
+	position: absolute;
+	clear: both;
+	font-size:16px;
+	font-style: italic;
+
+}
+
+.content-bottom  .noidung-content-bottom2{
+	background:#dddddd;
+	min-height: 120px;
+	padding-left: 10px;
+	position: absolute;
+}
+.content-bottom .content-bottom2{
+	position: absolute;
+	right: 100px;
+
+
+	
+}
+.content-bottom .content-bottom2 h3{
+	
+	position: absolute;
+	font-size:15px;
+	position: relative;
+	
+}
+
+/*-------*/
+.content-bottom  .noidung3{
+	
+	position: absolute;
+	clear: both;
+	font-size:16px;
+	font-style: italic;
+
+}
+
+.content-bottom  .noidung-content-bottom3{
+	background:#dddddd;
+	min-height: 120px;
+	padding-left: 10px;
+	position: absolute;
+}
+.content-bottom .content-bottom3{
+	position: absolute;
+	top:360px;
+	
+}
+.content-bottom .content-bottom3 h3{
+	
+	position: absolute;
+	font-size:15px;
+	position: relative;
+	
+}
+
+
+.content-bottom  .noidung4{
+	
+	position: absolute;
+	clear: both;
+	font-size:16px;
+	font-style: italic;
+
+}
+
+.content-bottom  .noidung-content-bottom4{
+	background:#dddddd;
+	min-height: 120px;
+	padding-left: 10px;
+	position: absolute;
+}
+.content-bottom .content-bottom4{
+	position: absolute;
+	top:360px;
+	right: 100px;
+}
+.content-bottom .content-bottom4 h3{
+	
+	position: absolute;
+	font-size:15px;
+	position: relative;
+	
+}
+/*---------------- END----CONTENT -BOTTOM-------------------*/
+.phan-chia-content-2{
+	background-image:url(images/phanweb.jpg)  ;
+	width: 960px;
+	clear: both;
+	height: 8px;
+	
+	;
+}
+/*---------------- FOOTER-------------------*/
+.footer{
+	padding:20px;
+	width: 200px;
+	position: relative;
+}
+.footer .footer-trai{
+	position: absolute;
+}
+.footer .footer-giua{
+	position: absolute;
+	left:300px;
+	width: 150px;
+}
+/*---------------- END-FOOTER-------------------*/
